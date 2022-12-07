@@ -1,0 +1,14 @@
+/*!
+ * dist/inputmask.min
+ * https://github.com/RobinHerbots/Inputmask
+ * Copyright (c) 2010 - 2022 Robin Herbots
+ * Licensed under the MIT license
+ * Version: 5.0.8-beta.47
+ */
+
+/*! For license information please see choices.min.js.LICENSE.txt */
+
+/**
+ * @license
+ * Lodash lodash.com/license | Underscore.js 1.8.3 underscorejs.org/LICENSE
+ */
